@@ -1,0 +1,16 @@
+{
+  "name": "webpack-react-template",
+  "version": "0.0.1",
+  "description": "Simple web template with webpack dev server and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "webpack-dev-server"
+  ],
+  "author": "Emil Mork <emil.a.mork@gmail.com>",
+  "license": "ISC"
+}
